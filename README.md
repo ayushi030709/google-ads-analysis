@@ -25,7 +25,7 @@ The dataset consists of multiple Google Ads CSV exports combined into one analys
 
 ---
 
-## 🧠 Analysis Approach
+##  Analysis Approach
 The analysis follows a structured, professional workflow:
 
 1. **Data Cleaning & Preprocessing**
@@ -50,7 +50,7 @@ The analysis follows a structured, professional workflow:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Campaign performance is highly inconsistent due to uneven activation and budget pacing.
 - When ads are active, CTR and engagement are healthy, indicating good ad relevance.
 - A small number of campaigns and search terms drive most of the engagement.
@@ -70,7 +70,7 @@ The analysis follows a structured, professional workflow:
 
 ---
 
-## 🛠️Tools & Technologies
+##  Tools & Technologies
 - **Python**
 - **Pandas**
 - **Matplotlib**
