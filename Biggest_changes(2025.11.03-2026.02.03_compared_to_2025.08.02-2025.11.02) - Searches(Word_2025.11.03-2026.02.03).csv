@@ -1,0 +1,84 @@
+Word,Cost,Clicks,Impressions,Conversions,Top Containing Queries
+t,₹410.48,159,"6,192",0,"(uni t multimeter, uni t clamp meter, uni t)"
+multimeter,₹177.08,110,"6,028",0,"(uni t multimeter, multimeter, unit multimeter)"
+uni t,₹402.71,150,"5,777",0,"(uni t multimeter, uni t clamp meter, uni t)"
+meter,₹247.37,62,"4,256",0,"(lcr meter, uni t clamp meter, clamp meter)"
+thermal,₹225.34,20,"3,207",0,"(thermal camera, thermal imaging camera, thermal imager)"
+oscilloscope,₹106.67,25,"3,038",0,"(oscilloscope, dso oscilloscope, digital oscilloscope)"
+camera,₹206.13,16,"2,691",0,"(thermal camera, thermal imaging camera, thermal camera price)"
+clamp meter,₹133.21,40,"2,498",0,"(uni t clamp meter, clamp meter, dc clamp meter)"
+toolworld,₹54.66,10,"2,224",0,"(toolworld, toolworld in, toolworld india)"
+unit,₹43.57,40,"1,950",0,"(unit multimeter, unit t multimeter, unit clamp meter)"
+tester,₹63.98,23,"1,935",0,"(earth tester, earth resistance tester, insulation tester)"
+world,₹206.14,12,"1,191",0,"(tool world, tools world)"
+dc,₹106.59,11,"1,155",0,"(dc electronic load, dc clamp meter, ac dc clamp meter)"
+lcr meter,₹51.14,13,"1,044",0,"(lcr meter, uni t lcr meter)"
+thickness gauge,₹14.22,4,"1,041",0,"(coating thickness gauge, ultrasonic thickness gauge, paint thickness gauge)"
+tool,₹195.85,8,968,0,(tool world)
+electronic load,₹127.65,14,918,0,"(electronic load, dc electronic load, electronic load tester)"
+earth,₹28.35,7,871,0,"(earth tester, earth resistance tester, digital earth tester)"
+dso,₹48.43,9,849,0,"(dso oscilloscope, uni t dso, dso)"
+digital,₹22.27,9,812,0,"(digital oscilloscope, digital storage oscilloscope, digital multimeter)"
+power supply,₹42.96,13,796,0,"(uni t power supply, dc power supply, bench power supply)"
+price,₹7.28,8,668,0,"(oscilloscope price, uni t multimeter price, thermal camera price)"
+leakage,₹27.81,9,607,0,"(leakage current clamp meter, thermal scanner for water leakage, earth leakage tester)"
+generator,₹14.02,3,591,0,"(function generator, signal generator)"
+imaging,₹23.33,2,511,0,(thermal imaging camera)
+rigol,₹34.65,4,503,0,"(rigol oscilloscope, rigol dho814, rigol dso)"
+function,₹10.81,2,468,0,(function generator)
+ut33d+,₹14.23,15,440,0,"(uni t ut33d+, ut33d+)"
+unity,₹13.56,11,439,0,"(unity multimeter, unity clamp meter)"
+bench,₹17.35,5,419,0,"(bench multimeter, bench power supply, bench top multimeter)"
+resistance tester,₹18.74,3,358,0,"(earth resistance tester, insulation resistance tester)"
+dft,₹0.00,0,340,0,(dft meter)
+ut61e+,₹71.65,24,327,0,"(uni t ut61e+, ut61e+)"
+thermal scanner,₹0.00,0,326,0,"(thermal scanner, thermal scanner for water leakage)"
+leakage current,₹25.91,8,323,0,"(leakage current clamp meter, leakage current tester)"
+coating,₹0.00,0,304,0,(coating thickness gauge)
+ultrasonic,₹3.62,1,301,0,(ultrasonic thickness gauge)
+paint,₹10.60,3,295,0,(paint thickness gauge)
+ut210e,₹11.99,8,291,0,"(uni t ut210e, ut210e)"
+insulation,₹0.92,1,277,0,"(insulation tester, insulation resistance tester)"
+ohm,₹18.43,4,277,0,(micro ohm meter)
+micro,₹18.43,4,277,0,(micro ohm meter)
+fluke,₹16.30,2,275,0,"(fluke clamp meter, fluke multimeter)"
+ac,₹7.53,3,264,0,(ac dc clamp meter)
+toolsworld,₹2.94,1,248,0,(toolsworld)
+tools,₹10.29,4,223,0,(tools world)
+storage,₹0.00,0,207,0,(digital storage oscilloscope)
+utl8212,₹9.33,9,205,0,(uni t utl8212)
+benchtop,₹16.99,4,192,0,(benchtop multimeter)
+imager,₹19.21,4,190,0,(thermal imager)
+in,₹0.00,0,189,0,(toolworld in)
+utd2102cex+,₹33.36,5,187,0,(uni t utd2102cex+)
+wire,₹1.69,1,185,0,(wire tracker)
+tracker,₹1.69,1,185,0,(wire tracker)
+water,₹0.00,0,160,0,(thermal scanner for water leakage)
+for,₹0.00,0,160,0,(thermal scanner for water leakage)
+ut89x,₹2.98,2,139,0,(ut89x)
+detector,₹41.24,4,138,0,(refrigerant leak detector)
+refrigerant,₹41.24,4,138,0,(refrigerant leak detector)
+leak,₹41.24,4,138,0,(refrigerant leak detector)
+channel,₹12.39,3,135,0,(4 channel oscilloscope)
+4,₹12.39,3,135,0,(4 channel oscilloscope)
+dho814,₹6.60,2,132,0,(rigol dho814)
+programmable,₹7.85,2,127,0,(programmable power supply)
+ut61b+,₹9.54,4,126,0,(ut61b+)
+top,₹5.78,2,124,0,(bench top multimeter)
+signal,₹3.21,1,123,0,(signal generator)
+elcb,₹9.75,3,120,0,(elcb tester)
+hipot,₹6.04,5,119,0,(hipot tester)
+ut139c,₹3.76,3,116,0,(uni t ut139c)
+auto,₹2.79,7,114,0,(uni t multimeter auto range)
+ut203+,₹2.94,3,114,0,(uni t ut203+)
+range,₹2.79,7,114,0,(uni t multimeter auto range)
+smd,₹0.35,1,111,0,(smd tester)
+rms,₹1.49,1,109,0,(true rms multimeter)
+TRUE,₹1.49,1,109,0,(true rms multimeter)
+lan,₹5.12,1,105,0,(lan tester)
+keysight,₹0.00,0,103,0,(keysight oscilloscope)
+ut117c,₹24.16,6,100,0,(uni t ut117c)
+ds1054z,₹0.00,0,98,0,(rigol ds1054z)
+esr,₹44.59,5,97,0,(esr meter)
+india,₹0.00,0,96,0,(toolworld india)
+rcd,₹1.03,2,95,0,(rcd tester)
