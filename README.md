@@ -1,4 +1,7 @@
+
 # Google Ads Performance Analysis (90 Days)
+
+For dashboard analysis please go through this link - https://public.tableau.com/app/profile/ayushi.mishra6535/viz/Book1_17704940057000/Dashboard1?publish=yes
 
 ##  Project Overview
 This project analyzes 90 days of real Google Ads performance data to understand campaign behavior, user intent, cost efficiency, and optimization opportunities. The analysis combines multiple Google Ads data exports into a single analytical workflow to answer three key questions:
